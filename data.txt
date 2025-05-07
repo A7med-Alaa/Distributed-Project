@@ -1,0 +1,2 @@
+peter:16000:Manager
+mohamed:20000:CEO

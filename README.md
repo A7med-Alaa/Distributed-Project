@@ -5,7 +5,7 @@
 git clone https://github.com/A7med-Alaa/Distributed-Project.git
 ```
 ## Setup
-Second you have to start the server by running
+First you have to start the server by running
 ```
 java Server
 ```
